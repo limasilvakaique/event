@@ -1,0 +1,9 @@
+POST http://localhost:8000/rsvp
+Body (JSON):
+{
+  "eventId": 1,
+  "user": {
+    "name": "Lucas",
+    "email": "lucas@email.com"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "events": [
+    { "id": 1, "title": "Curso PHP", "date": "2025-06-01" },
+    { "id": 2, "title": "Workshop Laravel", "date": "2025-06-10" }
+  ],
+  "rsvps": []
+}
